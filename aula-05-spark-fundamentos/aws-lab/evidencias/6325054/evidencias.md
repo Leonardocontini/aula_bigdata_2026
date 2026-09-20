@@ -30,11 +30,6 @@ Cole aqui a saída:
     "Arn": "arn:aws:sts::939933400660:assumed-role/voclabs/user5367881=Leonardo_Rafael_Contini_Costa_"
 ```
 
-Print (opcional):
-```
-![identidade AWS](01-identity.png)
-```
-
 ---
 
 ## 2. `terraform apply` concluído
